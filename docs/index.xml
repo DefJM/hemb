@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>https://lausebub.github.io/hemb/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jan 2024 11:19:23 +0100</lastBuildDate>
+    <atom:link href="https://lausebub.github.io/hemb/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test455</title>
+      <link>https://lausebub.github.io/hemb/docs/test455/</link>
+      <pubDate>Sun, 21 Jan 2024 11:19:23 +0100</pubDate>
+      <guid>https://lausebub.github.io/hemb/docs/test455/</guid>
+      <description>Title text</description>
+    </item>
+    <item>
+      <title>Test2</title>
+      <link>https://lausebub.github.io/hemb/docs/test2/</link>
+      <pubDate>Sun, 21 Jan 2024 11:18:27 +0100</pubDate>
+      <guid>https://lausebub.github.io/hemb/docs/test2/</guid>
+      <description>This is a test page 455 LF Management &amp;amp; Best Practices is the digital home where communities of “best practice” converge. Here, you’ll find the standards, reference material, courses, live events and webinars, research, project communities, and the automation tools to help you start your project or organization&amp;rsquo;s open source journey, and keep it on track! If you’re new to open source, or want to learn more about improving open source management and best practices at your organization, or within your community, this is the place for you.</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://lausebub.github.io/hemb/docs/test/</link>
+      <pubDate>Sun, 21 Jan 2024 11:14:20 +0100</pubDate>
+      <guid>https://lausebub.github.io/hemb/docs/test/</guid>
+      <description>This is a test page This is the test page with text.
+for iteration in iter: print(iteration) print(yey) test</description>
+    </item>
+  </channel>
+</rss>
