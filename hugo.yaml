@@ -1,4 +1,4 @@
-baseURL: #"https://lausebub.github.io/hemb/"
+baseURL: "https://lausebub.github.io/hemb/"
 languageCode: en-us
 title: HEMB
 theme: PaperMod
