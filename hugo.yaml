@@ -1,6 +1,6 @@
 baseURL: #"https://lausebub.github.io/hemb/"
 languageCode: en-us
-title: Hard Eggs & Many Baskets
+title: HEMB
 theme: PaperMod
 
 languages:
@@ -13,15 +13,18 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
+        - name: Posts
+          url: posts
+          weight: 10
         - name: Search
           url: search
-          weight: 10
+          weight: 20 
         - name: Tags
           url: tags
-          weight: 10
+          weight: 30 
+        - name: Archive
+          url: archives
+          weight: 40 
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -55,12 +58,16 @@ params:
     buttons:
       - name: Posts
         url: posts
+        weight: 10
       - name: Search
         url: search
-      - name: Archives
-        url: archives
+        weight: 20
       - name: Tags
         url: tags
+        weight: 30
+      - name: Archives
+        url: archives
+        weight: 40
 
 
 
