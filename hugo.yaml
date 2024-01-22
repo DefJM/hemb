@@ -1,4 +1,82 @@
-baseURL: "https://lausebub.github.io/hemb/"
+baseURL: #"https://lausebub.github.io/hemb/"
 languageCode: en-us
-title: My New Hugo Site
+title: Hard Eggs & Many Baskets
 theme: PaperMod
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search
+          weight: 10
+        - name: Tags
+          url: tags
+          weight: 10
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Hard Eggs & Many Baskets"
+  author: lausebub
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+  # images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: Hard Eggs & Many Baskets
+    imageUrl: "3032471_basket_easter_eggs_plate_icon.png"
+    imageTitle: egg
+    imageWidth: 200 
+    imageHeight: 200
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+      - name: Blog
+        url: posts
+
+  homeInfoParams:
+    Title: "Hard Eggs & Many Baskets"
+    Content: >
+      👋 Welcome!
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/lausebub/hemb"
+
+  editPost:
+    URL: "https://github.com/lausebub/hemb/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON

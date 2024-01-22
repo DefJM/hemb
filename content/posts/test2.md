@@ -1,8 +1,9 @@
-+++
-title = 'Test2'
-date = 2024-01-21T11:18:27+01:00
-draft = false 
-+++
+---
+title: 'Test2'
+date: 2024-01-21T11:18:27+01:00
+draft: false 
+tags: ["tags", "test"]
+---
 
 ## This is a test page 455
 
