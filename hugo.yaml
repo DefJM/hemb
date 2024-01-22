@@ -53,12 +53,16 @@ params:
     imageWidth: 200 
     imageHeight: 200
     buttons:
+      - name: Posts
+        url: posts
+      - name: Search
+        url: search
       - name: Archives
         url: archives
       - name: Tags
         url: tags
-      - name: Blog
-        url: posts
+
+
 
   homeInfoParams:
     Title: "Hard Eggs & Many Baskets"
