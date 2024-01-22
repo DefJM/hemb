@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://lausebub.github.io/hemb/</loc>
     <lastmod>2024-01-21T11:19:23+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://lausebub.github.io/hemb/posts/</loc>
     <lastmod>2024-01-21T11:19:23+01:00</lastmod>
   </url><url>
-    <loc>/posts/test455/</loc>
+    <loc>https://lausebub.github.io/hemb/posts/test455/</loc>
     <lastmod>2024-01-21T11:19:23+01:00</lastmod>
   </url><url>
-    <loc>/tags/tags/</loc>
+    <loc>https://lausebub.github.io/hemb/tags/tags/</loc>
     <lastmod>2024-01-21T11:18:27+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://lausebub.github.io/hemb/tags/</loc>
     <lastmod>2024-01-21T11:18:27+01:00</lastmod>
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>https://lausebub.github.io/hemb/tags/test/</loc>
     <lastmod>2024-01-21T11:18:27+01:00</lastmod>
   </url><url>
-    <loc>/posts/test2/</loc>
+    <loc>https://lausebub.github.io/hemb/posts/test2/</loc>
     <lastmod>2024-01-21T11:18:27+01:00</lastmod>
   </url><url>
-    <loc>/posts/test/</loc>
+    <loc>https://lausebub.github.io/hemb/posts/test/</loc>
     <lastmod>2024-01-21T11:14:20+01:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://lausebub.github.io/hemb/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://lausebub.github.io/hemb/categories/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://lausebub.github.io/hemb/search/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://lausebub.github.io/hemb/series/</loc>
   </url>
 </urlset>
