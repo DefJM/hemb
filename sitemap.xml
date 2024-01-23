@@ -2,33 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lausebub.github.io/hemb/tags/fuzzy_search/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lausebub.github.io/hemb/</loc>
-    <lastmod>2024-01-21T11:19:23+01:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/tags/hugo/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/tags/papermod/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lausebub.github.io/hemb/posts/</loc>
-    <lastmod>2024-01-21T11:19:23+01:00</lastmod>
-  </url><url>
-    <loc>https://lausebub.github.io/hemb/posts/test455/</loc>
-    <lastmod>2024-01-21T11:19:23+01:00</lastmod>
-  </url><url>
-    <loc>https://lausebub.github.io/hemb/tags/tags/</loc>
-    <lastmod>2024-01-21T11:18:27+01:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lausebub.github.io/hemb/tags/</loc>
-    <lastmod>2024-01-21T11:18:27+01:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lausebub.github.io/hemb/tags/test/</loc>
-    <lastmod>2024-01-21T11:18:27+01:00</lastmod>
+    <loc>https://lausebub.github.io/hemb/tags/website/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lausebub.github.io/hemb/posts/test2/</loc>
-    <lastmod>2024-01-21T11:18:27+01:00</lastmod>
+    <loc>https://lausebub.github.io/hemb/tags/about/</loc>
   </url><url>
-    <loc>https://lausebub.github.io/hemb/posts/test/</loc>
-    <lastmod>2024-01-21T11:14:20+01:00</lastmod>
+    <loc>https://lausebub.github.io/hemb/about/</loc>
   </url><url>
     <loc>https://lausebub.github.io/hemb/archives/</loc>
   </url><url>
+    <loc>https://lausebub.github.io/hemb/tags/attribution/</loc>
+  </url><url>
     <loc>https://lausebub.github.io/hemb/categories/</loc>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/tags/copyright/</loc>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/tags/disclaimer/</loc>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/tags/imprint/</loc>
+  </url><url>
+    <loc>https://lausebub.github.io/hemb/imprint/</loc>
   </url><url>
     <loc>https://lausebub.github.io/hemb/search/</loc>
   </url><url>

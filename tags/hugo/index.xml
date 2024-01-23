@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on HEMB</title>
-    <link>https://lausebub.github.io/hemb/posts/</link>
-    <description>Recent content in Posts on HEMB</description>
+    <title>hugo on HEMB</title>
+    <link>https://lausebub.github.io/hemb/tags/hugo/</link>
+    <description>Recent content in hugo on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lausebub.github.io/hemb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lausebub.github.io/hemb/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo PaperMod setup</title>
       <link>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</link>

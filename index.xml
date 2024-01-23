@@ -6,29 +6,32 @@
     <description>Recent content on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jan 2024 11:19:23 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lausebub.github.io/hemb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test455</title>
-      <link>https://lausebub.github.io/hemb/posts/test455/</link>
-      <pubDate>Sun, 21 Jan 2024 11:19:23 +0100</pubDate>
-      <guid>https://lausebub.github.io/hemb/posts/test455/</guid>
-      <description>Title text text text</description>
+      <title>Hugo PaperMod setup</title>
+      <link>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</guid>
+      <description>Summary We use the Hugo PaperMod theme. An example website from the author is deployed here with source code on github.
+Search Debugging When setting up the website, we had a few bugs with PaperMod&amp;rsquo;s search functionality.
+There is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:</description>
     </item>
     <item>
-      <title>Test2</title>
-      <link>https://lausebub.github.io/hemb/posts/test2/</link>
-      <pubDate>Sun, 21 Jan 2024 11:18:27 +0100</pubDate>
-      <guid>https://lausebub.github.io/hemb/posts/test2/</guid>
-      <description>This is a test page 455 LF Management &amp;amp; Best Practices is the digital home where communities of “best practice” converge. Here, you’ll find the standards, reference material, courses, live events and webinars, research, project communities, and the automation tools to help you start your project or organization&amp;rsquo;s open source journey, and keep it on track! If you’re new to open source, or want to learn more about improving open source management and best practices at your organization, or within your community, this is the place for you.</description>
+      <title>About</title>
+      <link>https://lausebub.github.io/hemb/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/about/</guid>
+      <description>Who we are Lausebub https://github.com/lausebub/ real.lausebub@gmail.com</description>
     </item>
     <item>
-      <title>Test</title>
-      <link>https://lausebub.github.io/hemb/posts/test/</link>
-      <pubDate>Sun, 21 Jan 2024 11:14:20 +0100</pubDate>
-      <guid>https://lausebub.github.io/hemb/posts/test/</guid>
-      <description>This is a test page This is the test page with text.
-for iteration in iter: print(iteration) print(yey) test</description>
+      <title>Imprint</title>
+      <link>https://lausebub.github.io/hemb/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/imprint/</guid>
+      <description>Operator Lausebub real.lausebub@gmail.com
+In case of problems, questions or suggestions regarding this site, please contact the above e-mail address. Any reproduction and other use of the entire website and/or copyrighted parts of this website, in particular sound and image material, photos, texts, graphics, layouts, is – unless expressly stated otherwise – not permitted. Regarding the liability of the operator, please refer to the disclaimer.
+This disclaimer is to be regarded as part of the internet publication which you were referred from.</description>
     </item>
   </channel>
 </rss>
