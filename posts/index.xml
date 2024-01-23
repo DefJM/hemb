@@ -9,13 +9,14 @@
     <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lausebub.github.io/hemb/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo PaperMod setup</title>
+      <title>Notes on the Hugo PaperMod theme</title>
       <link>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</guid>
-      <description>Summary We use the Hugo PaperMod theme. An example website from the author is deployed here with source code on github.
+      <description>Summary This website uses the Hugo PaperMod theme. You can find few debugging and research notes below.
 Search Debugging When setting up the website, we had a few bugs with PaperMod&amp;rsquo;s search functionality.
-There is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:</description>
+There is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:
+fuseOpts: isCaseSensitive: false includeScore: false shouldSort: true location: 0 distance: 1000 threshold: 0.</description>
     </item>
   </channel>
 </rss>
