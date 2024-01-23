@@ -1,6 +1,7 @@
 baseURL: "https://lausebub.github.io/hemb/"
 languageCode: en-us
 title: HEMB
+paginate: 10
 theme: PaperMod
 
 languages:
@@ -24,12 +25,24 @@ languages:
           weight: 30 
         - name: Archive
           url: archives
-          weight: 40 
+          weight: 40
+        - name: About
+          url: about
+          weight: 50
+        - name: Imprint
+          url: imprint
+          weight: 60
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Hard Eggs & Many Baskets"
-  author: lausebub
+  author: Lausebub
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -51,7 +64,7 @@ params:
   profileMode:
     enabled: true
     title: Hard Eggs & Many Baskets
-    imageUrl: "3032471_basket_easter_eggs_plate_icon.png"
+    imageUrl: "images/3032471_basket_easter_eggs_plate_icon.png"
     imageTitle: egg
     imageWidth: 200 
     imageHeight: 200
@@ -69,8 +82,6 @@ params:
         url: archives
         weight: 40
 
-
-
   homeInfoParams:
     Title: "Hard Eggs & Many Baskets"
     Content: >
@@ -86,8 +97,16 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  outputs:
-    home:
-      - HTML
-      - RSS
-      - JSON
+  assets:
+    favicon: "/assets/favicon.ico"
+  
+  fuseOpts:
+      isCaseSensitive: false
+      includeScore: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.6
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
