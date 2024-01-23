@@ -1,6 +1,6 @@
 ---
 author: ["Lausebub"]
-title: "Hugo PaperMod setup"
+title: "Notes on the Hugo PaperMod theme"
 date: 2024-01-23
 draft: false
 tags: ["papermod", "hugo", "website", "fuzzy_search"]
@@ -10,8 +10,7 @@ cover:
 ---
 
 ## Summary
-We use the Hugo PaperMod theme. An example website from the author is deployed [here](adityatelange.github.io/hugo-PaperMod/) with [source code on github](adityatelange.github.io/hugo-PaperMod/).
-
+This website uses the [Hugo PaperMod theme](https://github.com/adityatelange/hugo-PaperMod). You can find few debugging and research notes below.
 
 ## Search
 
