@@ -24,13 +24,13 @@ The competitions focus on **direct** prompt injections. Let's look at Gandalf, f
 
 ## Gandalf CTF
 
-![Screenshot of Gandalf website](/content/posts/images/gandalf-website.png)
+![Screenshot of Gandalf website](../images/gandalf-website.png)
 
 Gandalf was created by Lakera, an AI security company. According to their [blog post](https://www.lakera.ai/blog/who-is-gandalf), Gandalf was born out of an internal hackathon, where a blue and red team tried to build the strongest defenses and attacks for an LLM holding a secret password. The challenge was released in May 2023 and quickly gained popularity, accumulating in 9M interaction from over 200k users.
 
 The challenge can still be played at https://gandalf.lakera.ai. It consists of eight levels, in which the player has to extract a secret from Gandalf. With every level, defenses will become harder. 
 
-![Gandalf guard architecture](/content/posts/images/gandalf-guard-architecture.png)
+![Gandalf guard architecture](../images/gandalf-guard-architecture.png)
 
 Lakera discloses the types of defenses and provides a few example hacks for each level. 
 
@@ -46,21 +46,21 @@ Lakera discloses the types of defenses and provides a few example hacks for each
 
 Level 8 is not disclosed. Lakera released a version of Gandalf called [Level 8 Gandalf the White v2.0](https://gandalf.lakera.ai). Users can attack it until today.
 
-![Gandalf-white-level8](/content/posts/images/gandalf-level8.png)
+![Gandalf-white-level8](../images/gandalf-level8.png)
 
 
 ## LLM CTF @ SaTML 2024
 
 The [LLM CTF @ SaTML 2024](https://ctf.spylab.ai) is organized by [SPY Lab](http://spylab.ai) at ETH Zürich. It is one of three CTF-like competitions held before the conference [SaTML 2024](https://satml.org/#), the 2nd IEEE Conference on Secure and Trustworthy Machine Learning. 
 
-![Screenshot of the LLM CTF SaTML 2024 website](/content/posts/images/llm-ctf-satml2024-website.png)
+![Screenshot of the LLM CTF SaTML 2024 website](../images/llm-ctf-satml2024-website.png)
 
 This challenge has some interesting differences compared to the Gandalf challenge:
 - There is a defense phase, in which participants are asked to create defenses. Subsequently, in the attack phase, these defenses are the ones being attacked.
 - It has more guardrails, which are described in the [rules](https://ctf.spylab.ai/static/rules.pdf). 
 - Defenses are focussing on the output side, with 1) a defense prompt, appended to the system message, 2) a first filter, either a Python function or an LLM, and 3) a second filter, depending on what was chosen for the previous step, a Python function or an LLM.  
 
-![SaTML-guard-architecture](/content/posts/images/SaTML-guard-architecture.png)
+![SaTML-guard-architecture](../images/SaTML-guard-architecture.png)
 
 Since this challenge is still ongoing, we will go deeper in a later post.
 
@@ -95,7 +95,7 @@ We assume these limitations were set up for both practical reasons but also per 
 ### Helpfulness vs security trade-off?
 An interesting field to explore is the trade-off between general helpfulness and security. Take below example, in which we played with the current "Gandalf the White". Gandalf refused to be an actor:
 
-![Gandalf Level 8 refusing to be an actor](/content/posts/images/gandalf-level8-refuses-to-be-an-actor.png)
+![Gandalf Level 8 refusing to be an actor](../images/gandalf-level8-refuses-to-be-an-actor.png)
 
 We cannot look into the guards deployed by Lakera, but it is obvious that there was a rule or model at play here. Why? Because there have indeed been several prompt injection strategies in the past, in which very similar user prompts instructed the model to play another role to leak data or do something terrible. **It is still unfortunate that Gandalf blocks me here in my good-willed intend to have a creative dialogue on a rabbit and fox play.** Minimizing this trade-off is clearly an important research field. 
 
