@@ -6,8 +6,57 @@
     <description>Recent content in Tags on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lausebub.github.io/hemb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-security</title>
+      <link>https://lausebub.github.io/hemb/tags/ai-security/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/ai-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTF</title>
+      <link>https://lausebub.github.io/hemb/tags/ctf/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/ctf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gandalf</title>
+      <link>https://lausebub.github.io/hemb/tags/gandalf/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/gandalf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>https://lausebub.github.io/hemb/tags/hacking/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lakera</title>
+      <link>https://lausebub.github.io/hemb/tags/lakera/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/lakera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://lausebub.github.io/hemb/tags/llm/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SaTML2024</title>
+      <link>https://lausebub.github.io/hemb/tags/satml2024/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://lausebub.github.io/hemb/tags/satml2024/</guid>
+      <description></description>
+    </item>
     <item>
       <title>fuzzy_search</title>
       <link>https://lausebub.github.io/hemb/tags/fuzzy_search/</link>
