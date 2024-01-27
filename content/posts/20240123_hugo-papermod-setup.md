@@ -26,15 +26,15 @@ When setting up the website, we had a few bugs with PaperMod's search functional
 Current parameters for search:
 
 ```yaml
-  fuseOpts:
-      isCaseSensitive: false
-      includeScore: false
-      shouldSort: true
-      location: 0
-      distance: 1000
-      threshold: 0.6
-      minMatchCharLength: 0
-      keys: ["title", "permalink", "summary", "content"]
+fuseOpts:
+    isCaseSensitive: false
+    includeScore: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.6
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 ```
 
 - PaperMod uses `fuse.js` for its fuzzy search. 
@@ -51,19 +51,19 @@ PaperMod explains it [here](https://adityatelange.github.io/hugo-PaperMod/posts/
 For example, we sort our top right menu as follows:
 
 ```yaml
-    buttons:
-      - name: Posts
-        url: posts
-        weight: 10
-      - name: Search
-        url: search
-        weight: 20
-      - name: Tags
-        url: tags
-        weight: 30
-      - name: Archives
-        url: archives
-        weight: 40
+buttons:
+  - name: Posts
+    url: posts
+    weight: 10
+  - name: Search
+    url: search
+    weight: 20
+  - name: Tags
+    url: tags
+    weight: 30
+  - name: Archives
+    url: archives
+    weight: 40
 ```
 
 ## Page header template
