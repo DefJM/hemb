@@ -11,8 +11,6 @@ tags: ["LLM", "AI-security", "Hacking", "CTF", "Gandalf", "Lakera", "SaTML2024"]
 
 [Capture the flag competitions](https://en.wikipedia.org/wiki/Capture_the_flag) are a great way of learning cybersecurity concepts and tools. There is an [introductory article on CTFs](https://help.hackthebox.com/en/articles/5200851-introduction-to-ctfs#) by [Hack The Box](https://www.hackthebox.com), in which they define CTFs as follows: *A CTF (aka Capture the Flag) is a competition where teams or individuals have to solve several Challenges. The one that solves/collects most flags the fastest wins the competition.* Applying this concept to large language models and chatbots is a recent and interesting development. In this post we delve into two competitions on LLM prompt injection attacks called [Gandalf](https://gandalf.lakera.ai) and [LLM CTF @ SaTML 2024](https://ctf.spylab.ai). We are participating in the latter one. 
 
-In addition, [SaTML 2024](https://satml.org/#) is holding [two further CTF competitions](https://satml.org/participate-competitions/) on CNN interpretability and universal backdoor attacks. We intend to review these two in a later post.
-
 
 ## Prompt injection attacks
 
@@ -21,6 +19,7 @@ Prompt injection attacks are listed as the first risk category in the [OWASP TOP
 > Prompt Injection Vulnerability occurs when an attacker manipulates a large language model (LLM) through crafted inputs, causing the LLM to unknowingly execute the attacker's intentions. This can be done **directly** by "jailbreaking" the system prompt or **indirectly** through manipulated external inputs, potentially leading to data exfiltration, social engineering, and other issues.
 
 The competitions focus on **direct** prompt injections. Let's look at Gandalf, first.
+
 
 ## Gandalf CTF
 
@@ -62,8 +61,6 @@ This challenge has some interesting differences compared to the Gandalf challeng
 
 ![SaTML-guard-architecture](../images/SaTML-guard-architecture.png)
 
-Since this challenge is still ongoing, we will go deeper in a later post.
-
 
 ## Conclusion
 
@@ -72,6 +69,7 @@ Since this challenge is still ongoing, we will go deeper in a later post.
 
 **Also, they can generate valuable data.** With its great popularity, Lakera collected a large number of adversarial prompts from the community. Lakera subsequently [open-sourced a subset of them](https://huggingface.co/datasets/Lakera/gandalf_ignore_instructions) on HuggingFace. These datasets can be used to improve guard models. 
 
+
 ## Open questions & future research
 
 ### Is a secret stored within the system prompt a realistic scenario?
@@ -79,7 +77,6 @@ In both challenges, the secret was provided through the system message. Attacks 
 
 
 ### LLM CTF @ SaTML 2024: Defense limitations
-
 **Limited Python defense:** It is limited to the following function.
 
 ```Python
@@ -92,6 +89,10 @@ No imports nor more complex Python is allowed, the code in this function is limi
 We assume these limitations were set up for both practical reasons but also per design. The result is that participants focus their defense on the prompt design.
 
 
+### LLM CTF @ SaTML 2024 is ongoing
+The [LLM CTF @ SaTML 2024](https://ctf.spylab.ai) challenge is still open and we plan to have a closer look and review results in a later post.
+
+
 ### Helpfulness vs security trade-off?
 An interesting field to explore is the trade-off between general helpfulness and security. Take below example, in which we played with the current "Gandalf the White". Gandalf refused to be an actor:
 
@@ -100,3 +101,7 @@ An interesting field to explore is the trade-off between general helpfulness and
 We cannot look into the guards deployed by Lakera, but it is obvious that there was a rule or model at play here. Why? Because there have indeed been several prompt injection strategies in the past, in which very similar user prompts instructed the model to play another role to leak data or do something terrible. **It is still unfortunate that Gandalf blocks me here in my good-willed intend to have a creative dialogue on a rabbit and fox play.** Minimizing this trade-off is clearly an important research field. 
 
 For the [LLM CTF @ SaTML 2024](https://ctf.spylab.ai) defense challenge, the competition team will manually review all entries. They can disqualify entries which don't use the `{model output}` parameter, or exclude the secret systematically from the output. Regarding helpfulness, the entries should maintain consistent error rates on benchmarks. In other words, they should be as helpful as without the defense. Defenders could evaluate their utility by using an endpoint which provided utility scores on the performance on benchmarks including (and similar to) [MMLU](https://arxiv.org/abs/2009.03300). 
+
+
+### Other types of CTFs for AI? 
+[SaTML 2024](https://satml.org/#) is holding [two further CTF competitions](https://satml.org/participate-competitions/) on CNN interpretability and universal backdoor attacks. We plan to review these two in a later post.
