@@ -84,7 +84,7 @@ def f(chat_history: list[str], model_output: str, secret: str) -> str:
 ```
 No imports nor more complex Python is allowed, the code in this function is limited to 512 characters. As a result, there is no option to deploy more complex detection algorithms.
 
-**LLM defense limitations:** The prompt is restricted to be max 512 characters long. Model choices are vanilla gpt-3.5 or Llama2. As a result, strategies to use customer language models are excluded.
+**LLM defense limitations:** The prompt is restricted to be max 512 characters long. Model choices are vanilla gpt-3.5 or Llama2. As a result, strategies to use custom language models are excluded.
 
 We assume these limitations were set up for both practical reasons but also per design. The result is that participants focus their defense on the prompt design.
 
