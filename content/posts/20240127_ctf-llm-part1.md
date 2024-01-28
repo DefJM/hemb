@@ -9,7 +9,11 @@ tags: ["LLM", "AI-security", "Hacking", "CTF", "Gandalf", "Lakera", "SaTML2024"]
 
 ## Capture the Flag competitions on Large Language Models
 
-[Capture the flag competitions](https://en.wikipedia.org/wiki/Capture_the_flag) are a great way of learning cybersecurity concepts and tools. There is an [introductory article on CTFs](https://help.hackthebox.com/en/articles/5200851-introduction-to-ctfs#) by [Hack The Box](https://www.hackthebox.com), in which they define CTFs as follows: *A CTF (aka Capture the Flag) is a competition where teams or individuals have to solve several Challenges. The one that solves/collects most flags the fastest wins the competition.* Applying this concept to large language models and chatbots is a recent and interesting development. In this post we delve into two competitions on LLM prompt injection attacks called [Gandalf](https://gandalf.lakera.ai) and [LLM CTF @ SaTML 2024](https://ctf.spylab.ai). We are participating in the latter one. 
+[Capture the flag competitions](https://en.wikipedia.org/wiki/Capture_the_flag) are a great way of learning cybersecurity concepts and tools. There is an [introductory article on CTFs](https://help.hackthebox.com/en/articles/5200851-introduction-to-ctfs#) by [Hack The Box](https://www.hackthebox.com), in which they define CTFs as follows: *
+
+> A CTF (aka Capture the Flag) is a competition where teams or individuals have to solve several Challenges. The one that solves/collects most flags the fastest wins the competition.
+
+Applying this concept to large language models and chatbots is a recent and interesting development. In this post we delve into two competitions on LLM prompt injection attacks called [Gandalf](https://gandalf.lakera.ai) and [LLM CTF @ SaTML 2024](https://ctf.spylab.ai). We are participating in the latter one. 
 
 
 ## Prompt injection attacks
