@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CTF on HEMB</title>
-    <link>https://lausebub.github.io/hemb/tags/ctf/</link>
+    <link>https://defjm.github.io/hemb/tags/ctf/</link>
     <description>Recent content in CTF on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lausebub.github.io/hemb/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://defjm.github.io/hemb/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CTFs on AI? - Part 1: LLM Prompt Injection Attacks - Gandalf &amp; LLM CTF SaTML 2024</title>
-      <link>https://lausebub.github.io/hemb/posts/20240127_ctf-llm-part1/</link>
+      <link>https://defjm.github.io/hemb/posts/20240127_ctf-llm-part1/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/posts/20240127_ctf-llm-part1/</guid>
+      <guid>https://defjm.github.io/hemb/posts/20240127_ctf-llm-part1/</guid>
       <description>Capture the Flag competitions on Large Language Models Capture the flag competitions are a great way of learning cybersecurity concepts and tools. There is an introductory article on CTFs by Hack The Box, in which they define CTFs as follows: A CTF (aka Capture the Flag) is a competition where teams or individuals have to solve several Challenges. The one that solves/collects most flags the fastest wins the competition. Applying this concept to large language models and chatbots is a recent and interesting development.</description>
     </item>
   </channel>

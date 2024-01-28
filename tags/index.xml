@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HEMB</title>
-    <link>https://lausebub.github.io/hemb/tags/</link>
+    <link>https://defjm.github.io/hemb/tags/</link>
     <description>Recent content in Tags on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lausebub.github.io/hemb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://defjm.github.io/hemb/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-security</title>
-      <link>https://lausebub.github.io/hemb/tags/ai-security/</link>
+      <link>https://defjm.github.io/hemb/tags/ai-security/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/ai-security/</guid>
+      <guid>https://defjm.github.io/hemb/tags/ai-security/</guid>
       <description></description>
     </item>
     <item>
       <title>CTF</title>
-      <link>https://lausebub.github.io/hemb/tags/ctf/</link>
+      <link>https://defjm.github.io/hemb/tags/ctf/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/ctf/</guid>
+      <guid>https://defjm.github.io/hemb/tags/ctf/</guid>
       <description></description>
     </item>
     <item>
       <title>Gandalf</title>
-      <link>https://lausebub.github.io/hemb/tags/gandalf/</link>
+      <link>https://defjm.github.io/hemb/tags/gandalf/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/gandalf/</guid>
+      <guid>https://defjm.github.io/hemb/tags/gandalf/</guid>
       <description></description>
     </item>
     <item>
       <title>Hacking</title>
-      <link>https://lausebub.github.io/hemb/tags/hacking/</link>
+      <link>https://defjm.github.io/hemb/tags/hacking/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/hacking/</guid>
+      <guid>https://defjm.github.io/hemb/tags/hacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Lakera</title>
-      <link>https://lausebub.github.io/hemb/tags/lakera/</link>
+      <link>https://defjm.github.io/hemb/tags/lakera/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/lakera/</guid>
+      <guid>https://defjm.github.io/hemb/tags/lakera/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>https://lausebub.github.io/hemb/tags/llm/</link>
+      <link>https://defjm.github.io/hemb/tags/llm/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/llm/</guid>
+      <guid>https://defjm.github.io/hemb/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>SaTML2024</title>
-      <link>https://lausebub.github.io/hemb/tags/satml2024/</link>
+      <link>https://defjm.github.io/hemb/tags/satml2024/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/satml2024/</guid>
+      <guid>https://defjm.github.io/hemb/tags/satml2024/</guid>
       <description></description>
     </item>
     <item>
       <title>fuzzy_search</title>
-      <link>https://lausebub.github.io/hemb/tags/fuzzy_search/</link>
+      <link>https://defjm.github.io/hemb/tags/fuzzy_search/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/fuzzy_search/</guid>
+      <guid>https://defjm.github.io/hemb/tags/fuzzy_search/</guid>
       <description></description>
     </item>
     <item>
       <title>hugo</title>
-      <link>https://lausebub.github.io/hemb/tags/hugo/</link>
+      <link>https://defjm.github.io/hemb/tags/hugo/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/hugo/</guid>
+      <guid>https://defjm.github.io/hemb/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>papermod</title>
-      <link>https://lausebub.github.io/hemb/tags/papermod/</link>
+      <link>https://defjm.github.io/hemb/tags/papermod/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/papermod/</guid>
+      <guid>https://defjm.github.io/hemb/tags/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>website</title>
-      <link>https://lausebub.github.io/hemb/tags/website/</link>
+      <link>https://defjm.github.io/hemb/tags/website/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/website/</guid>
+      <guid>https://defjm.github.io/hemb/tags/website/</guid>
       <description></description>
     </item>
     <item>
       <title>about</title>
-      <link>https://lausebub.github.io/hemb/tags/about/</link>
+      <link>https://defjm.github.io/hemb/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/about/</guid>
+      <guid>https://defjm.github.io/hemb/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>attribution</title>
-      <link>https://lausebub.github.io/hemb/tags/attribution/</link>
+      <link>https://defjm.github.io/hemb/tags/attribution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/attribution/</guid>
+      <guid>https://defjm.github.io/hemb/tags/attribution/</guid>
       <description></description>
     </item>
     <item>
       <title>copyright</title>
-      <link>https://lausebub.github.io/hemb/tags/copyright/</link>
+      <link>https://defjm.github.io/hemb/tags/copyright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/copyright/</guid>
+      <guid>https://defjm.github.io/hemb/tags/copyright/</guid>
       <description></description>
     </item>
     <item>
       <title>disclaimer</title>
-      <link>https://lausebub.github.io/hemb/tags/disclaimer/</link>
+      <link>https://defjm.github.io/hemb/tags/disclaimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/disclaimer/</guid>
+      <guid>https://defjm.github.io/hemb/tags/disclaimer/</guid>
       <description></description>
     </item>
     <item>
       <title>imprint</title>
-      <link>https://lausebub.github.io/hemb/tags/imprint/</link>
+      <link>https://defjm.github.io/hemb/tags/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/tags/imprint/</guid>
+      <guid>https://defjm.github.io/hemb/tags/imprint/</guid>
       <description></description>
     </item>
   </channel>

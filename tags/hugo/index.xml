@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on HEMB</title>
-    <link>https://lausebub.github.io/hemb/tags/hugo/</link>
+    <link>https://defjm.github.io/hemb/tags/hugo/</link>
     <description>Recent content in hugo on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lausebub.github.io/hemb/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://defjm.github.io/hemb/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on the Hugo PaperMod theme</title>
-      <link>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</link>
+      <link>https://defjm.github.io/hemb/posts/20240123_hugo-papermod-setup/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lausebub.github.io/hemb/posts/20240123_hugo-papermod-setup/</guid>
+      <guid>https://defjm.github.io/hemb/posts/20240123_hugo-papermod-setup/</guid>
       <description>Summary This website uses the Hugo PaperMod theme. You can find few debugging and research notes below.
 Search Debugging When setting up the website, we had a few bugs with PaperMod&amp;rsquo;s search functionality.
 There is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:
