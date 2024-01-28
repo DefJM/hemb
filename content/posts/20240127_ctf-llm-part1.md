@@ -59,7 +59,7 @@ The [LLM CTF @ SaTML 2024](https://ctf.spylab.ai) is organized by [SPY Lab](http
 ![Screenshot of the LLM CTF SaTML 2024 website](../images/llm-ctf-satml2024-website.png)
 
 This challenge has some interesting differences compared to the Gandalf challenge:
-- There is a defense phase, in which participants are asked to create defenses. Subsequently, in the attack phase, these defenses are the ones being attacked.
+- There are two phases. First, participants are asked to create defenses. Second, in the attack phase, competitors try to circumvent these defenses to extract the secret.
 - It has more guardrails, which are described in the [rules](https://ctf.spylab.ai/static/rules.pdf). 
 - Defenses are focussing on the output side, with 1) a defense prompt, appended to the system message, 2) a first filter, either a Python function or an LLM, and 3) a second filter, depending on what was chosen for the previous step, a Python function or an LLM.  
 
