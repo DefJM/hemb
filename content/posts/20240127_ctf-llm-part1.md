@@ -1,5 +1,5 @@
 ---
-author: ["Lausebub"]
+author: ["DefJM"]
 title: "CTFs on AI? - Part 1: LLM Prompt Injection Attacks - Gandalf & LLM CTF SaTML 2024"
 date: 2024-01-27
 draft: false 

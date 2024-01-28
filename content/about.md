@@ -1,6 +1,6 @@
 ---
 title: "About"
-author: "Lausebub"
+author: "DefJM"
 showToc: false
 ShowBreadCrumbs: true
 ShowReadingTime: false
@@ -9,8 +9,8 @@ tags: ["about"]
 
 ## Who we are
 
-**Lausebub** \
-https://github.com/lausebub/ \
-real.lausebub@gmail.com 
+**DefJM** \
+https://github.com/defjm/ \
+real.defjm@gmail.com 
 
 

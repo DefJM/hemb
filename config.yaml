@@ -1,4 +1,4 @@
-baseURL: "https://lausebub.github.io/hemb/"
+baseURL: "https://defjm.github.io/hemb/"
 languageCode: en-us
 title: HEMB
 paginate: 10
@@ -42,7 +42,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Hard Eggs & Many Baskets"
-  author: Lausebub
+  author: DefJM
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -90,10 +90,10 @@ params:
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/lausebub/hemb"
+      url: "https://github.com/defjm/hemb"
 
   editPost:
-    URL: "https://github.com/lausebub/hemb/blob/main/content"
+    URL: "https://github.com/defjm/hemb/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

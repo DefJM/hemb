@@ -34,7 +34,7 @@ jobs:
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
-          git config user.name 'lausebub'
+          git config user.name 'defjm'
           git config user.email 'git.mojan@gmail.com'
           git commit -m 'Updated site'
           git push

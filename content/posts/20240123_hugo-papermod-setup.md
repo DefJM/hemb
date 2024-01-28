@@ -1,5 +1,5 @@
 ---
-author: ["Lausebub"]
+author: ["DefJM"]
 title: "Notes on the Hugo PaperMod theme"
 date: 2024-01-23
 draft: false
@@ -71,7 +71,7 @@ Each post has a dedicated section for metadata. Here is the one for this post:
 
 ```yaml
 ---
-author: ["Lausebub"]
+author: ["DefJM"]
 title: "Hugo PaperMod setup"
 date: 2024-01-23
 draft: false

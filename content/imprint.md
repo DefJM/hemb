@@ -1,6 +1,6 @@
 ---
 title: "Imprint"
-author: "Lausebub"
+author: "DefJM"
 showToc: false
 ShowBreadCrumbs: true
 ShowReadingTime: false
@@ -11,8 +11,8 @@ tags: ["imprint", "attribution", "disclaimer", "copyright"]
 
 ## Operator
 
-Lausebub \
-real.lausebub@gmail.com
+DefJM \
+real.defjm@gmail.com
 
 In case of problems, questions or suggestions regarding this site, please contact the above e-mail address. Any reproduction and other use of the entire website and/or copyrighted parts of this website, in particular sound and image material, photos, texts, graphics, layouts, is – unless expressly stated otherwise – not permitted. Regarding the liability of the operator, please refer to the disclaimer.
 
