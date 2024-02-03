@@ -77,7 +77,7 @@ This challenge has some interesting differences compared to the Gandalf challeng
 ## Open questions & future research
 
 ### Is a secret stored within the system prompt a realistic scenario?
-In both challenges, the secret was provided through the system message. The defense worked hard to prevent its disclosure, attackers tried to obtain it. System prompts and hidden prompt instructions are certainly valuable for attackers as they provide insights on the inner working of the chatbot. But who would literally put a secret in there? At least for today we'd advise everyone to treat prompt instructions and system prompt as "published" information. 
+In both challenges, the secret was provided through the system message. The defense worked hard to prevent its disclosure, attackers tried to obtain it. System prompts and hidden prompt instructions are certainly valuable for attackers as they provide insights on the inner working of the chatbot. But who would literally put a secret in there? At least for today we'd advise everyone to treat prompt instructions and system prompt as "published information". 
 
 
 ### LLM CTF @ SaTML 2024: Defense limitations
