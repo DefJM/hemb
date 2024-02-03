@@ -3,7 +3,7 @@ author: ["DefJM"]
 title: "Notes on the Hugo PaperMod theme"
 date: 2024-01-23
 draft: false
-tags: ["papermod", "hugo", "website", "fuzzy_search"]
+tags: ["papermod", "hugo"]
 cover:
     image: images/papermod-cover.png
     hiddenInList: true
