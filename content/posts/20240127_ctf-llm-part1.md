@@ -98,7 +98,7 @@ The [LLM CTF @ SaTML 2024](https://ctf.spylab.ai) challenge is still open and we
 
 
 ### Helpfulness vs security trade-off?
-An interesting field to explore is the trade-off between general helpfulness and security. Take below example, in which we played with the current "Gandalf the White". Gandalf refused to be an actor:
+An interesting field to explore will be the trade-off between general helpfulness and security. Take below example, in which we played with the current "Gandalf the White". Gandalf refused to be an actor:
 
 ![Gandalf Level 8 refusing to be an actor](../images/gandalf-level8-refuses-to-be-an-actor.png)
 
