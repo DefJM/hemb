@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Notes on the Hugo PaperMod theme | HEMB</title>
-<meta name="keywords" content="papermod, hugo, website, fuzzy_search">
+<meta name="keywords" content="papermod, hugo">
 <meta name="description" content="Summary This website uses the Hugo PaperMod theme. You can find few debugging and research notes below.
 Search Debugging When setting up the website, we had a few bugs with PaperMod&rsquo;s search functionality.
 There is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:
@@ -105,7 +105,7 @@ fuseOpts: isCaseSensitive: false includeScore: false shouldSort: true location: 
   "name": "Notes on the Hugo PaperMod theme",
   "description": "Summary This website uses the Hugo PaperMod theme. You can find few debugging and research notes below.\nSearch Debugging When setting up the website, we had a few bugs with PaperMod\u0026rsquo;s search functionality.\nThere is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:\nfuseOpts: isCaseSensitive: false includeScore: false shouldSort: true location: 0 distance: 1000 threshold: 0.",
   "keywords": [
-    "papermod", "hugo", "website", "fuzzy_search"
+    "papermod", "hugo"
   ],
   "articleBody": "Summary This website uses the Hugo PaperMod theme. You can find few debugging and research notes below.\nSearch Debugging When setting up the website, we had a few bugs with PaperMod’s search functionality.\nThere is a small wiki section on search. If you use languages in your config.yaml (or hugo.yaml), make sure you name the search file content/search.en.md. Related post Search calibration and algorithm Current parameters for search:\nfuseOpts: isCaseSensitive: false includeScore: false shouldSort: true location: 0 distance: 1000 threshold: 0.6 minMatchCharLength: 0 keys: [\"title\", \"permalink\", \"summary\", \"content\"] PaperMod uses fuse.js for its fuzzy search. Options to calibrate are described here. Read about the fuse.js scoring theory here. Under the hood, fuse.js uses the Bitap algorithm. Weights PaperMod explains it here. Weight is used to control the positioning of entries. The Hugo Wiki:\nA non-zero integer indicating the entry’s position relative the root of the menu, or to its parent for a child entry. Lighter entries float to the top, while heavier entries sink to the bottom.\nFor example, we sort our top right menu as follows:\nbuttons: - name: Posts url: posts weight: 10 - name: Search url: search weight: 20 - name: Tags url: tags weight: 30 - name: Archives url: archives weight: 40 Page header template Each post has a dedicated section for metadata. Here is the one for this post:\n--- author: [\"DefJM\"] title: \"Hugo PaperMod setup\" date: 2024-01-23 draft: false tags: [\"papermod\", \"hugo\", \"website\", \"fuzzy_search\"] cover: image: images/papermod-cover.png hiddenInList: true --- ",
   "wordCount" : "246",
@@ -315,8 +315,6 @@ fuseOpts: isCaseSensitive: false includeScore: false shouldSort: true location: 
     <ul class="post-tags">
       <li><a href="https://defjm.github.io/hemb/tags/papermod/">papermod</a></li>
       <li><a href="https://defjm.github.io/hemb/tags/hugo/">hugo</a></li>
-      <li><a href="https://defjm.github.io/hemb/tags/website/">website</a></li>
-      <li><a href="https://defjm.github.io/hemb/tags/fuzzy_search/">fuzzy_search</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://defjm.github.io/hemb/posts/20240127_ctf-llm-part1/">
