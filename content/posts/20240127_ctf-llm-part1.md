@@ -3,7 +3,7 @@ author: ["DefJM"]
 title: "CTFs on AI? - Part 1: LLM Prompt Injection Attacks - Gandalf & LLM CTF SaTML 2024"
 date: 2024-01-27
 draft: false 
-tags: ["LLM", "AI-security", "Hacking", "CTF", "Gandalf", "Lakera", "SaTML2024"]
+tags: ["LLM", "AI-security", "Hacking", "CTF"]
 ---
 
 
@@ -77,7 +77,7 @@ This challenge has some interesting differences compared to the Gandalf challeng
 ## Open questions & future research
 
 ### Is a secret stored within the system prompt a realistic scenario?
-In both challenges, the secret was provided through the system message. Attacks subsequently focussed on obtaining it from "the above". The defense focussed on avoiding such disclosure. This is certainly a narrow scenario and often does not fully resemble real world settings. 
+In both challenges, the secret was provided through the system message. The defense worked hard to prevent its disclosure, attackers tried to obtain it. System prompts and hidden prompt instructions are certainly valuable for attackers as they provide insights on the inner working of the chatbot. But who would literally put a secret in there? At least for today we'd advise everyone to treat prompt instructions and system prompt as "published" information. 
 
 
 ### LLM CTF @ SaTML 2024: Defense limitations
