@@ -23,6 +23,6 @@ Developers need to **understand the effects of probabilistic model outputs**. Fo
 ## Human-AI Interaction: Human–Computer Interaction (HCI) for AI Systems
 All their core, these are human-computer interaction (HCI) challenges. AI and GenAI-applications particularly are a new category of tools for our dear human end-users. It is thus important to gain a better understanding how we interact with them. **This field of research is called Human-AI-Interaction**.
 
-For further research, the [Special Issue on Human-AI Interaction](https://www.sciencedirect.com/journal/data-and-information-management/vol/7/issue/3) (2023-09) of the Data and Information Management Journal is a good starting point.  
+For further research, the [Special Issue on Human-AI Interaction](https://www.sciencedirect.com/journal/data-and-information-management/vol/7/issue/3) (2023-09) of the Data and Information Management Journal seems a good starting point.  
 
 There is also an online course [Human–Computer Interaction (HCI) for AI Systems Design](https://advanceonline.cam.ac.uk/courses/human-computer-interaction-hci-for-ai-systems-design?utm_medium=cpc&utm_source=google&utm_campaign=DSA_UK) (with a juicy fee) from the University of Cambridge. This course, taught by [Professor Per Ola Kristensson](https://advanceonline.cam.ac.uk/course-lead/per-ola-kristensson), focusses on methods for designing AI systems to "assist users in achieving their goals and improving user experience". 
