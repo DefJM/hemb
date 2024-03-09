@@ -1,15 +1,15 @@
 ---
 author: ["DefJM"]
 title: "Human-AI-Interaction: We need to think more about AI usability"
-date: 2024-03-05
+date: 2024-03-09
 draft: false 
-tags: ["UX-UI", "Human-AI-Interaction"]
+tags: ["UX-UI", "Human-AI-Interaction", "AI-security"]
 ---
 
 
 ## AI systems are different from conventional software systems. And this matters.
 
-AI systems are different from conventional software systems. This has implications for user experience and usability. 
+In my job to develop and implement machine learning services and dealing with related quality and security challenges, it has become clear to me that the ML-community needs to spend more time thinking through the user experience (UX) of AI systems. These systems are different from conventional software systems and this has implications for usability and design. 
 
 Developers need to **understand the effects of probabilistic model outputs**. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas. It may become a big no-go if the chatbot is used to support doctors in the diagnosis of serious illnesses. We need to design product experiences with non-perfect accuracies (and hallucinations) in mind.
 
