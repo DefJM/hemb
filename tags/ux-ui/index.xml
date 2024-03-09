@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX-UI on HEMB</title>
+    <link>https://defjm.github.io/hemb/tags/ux-ui/</link>
+    <description>Recent content in UX-UI on HEMB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://defjm.github.io/hemb/tags/ux-ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI user experience</title>
+      <link>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</guid>
+      <description>We need to think more about user experience and usability for designing AI applications AI applications are different from conventional software systems. This has implications for user experience and usability.
+Developers need to understand the effects of probabilistic model outputs. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas.</description>
+    </item>
+  </channel>
+</rss>
