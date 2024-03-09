@@ -2,32 +2,21 @@
 author: ["DefJM"]
 title: "AI user experience"
 date: 2024-03-05
-draft: true 
-tags: ["AI-usability"]
+draft: false 
+tags: ["UX-UI", "Human-AI-Interaction"]
 ---
 
 
-## User experience and usability for (Gen-)AI applications
+## We need to think more about user experience and usability for designing AI applications
 
-AI applications are different from conventional software systems in many ways. Lately I have been thinking a lot about their implications for user experience and usability. Challenges are manifold, ranging from managing the probabilistic nature of AI, to designing, testing and monitoring an effective chat bot experience, and understanding novel fallacies in LLM prompt-engineering as a developer. This post intends to provide an overview of AI-specific usability challenges. 
+AI applications are different from conventional software systems. This has implications for user experience and usability. 
 
-- Use case development: Understanding and designing around the probabilistic nature of AI is hard
-- Prompt engineering: Non-expert prompt engineers struggle with AI during development and implementation of chatbots
-- Chatbots: End-users struggle to grasp LLM and RAG limitations
-- AI-security: Wide-ranging AI-security threats often have their root in organisational and user-related mis-alignments, even more so than in technology issues
+Developers need to **understand the effects of probabilistic model outputs**. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas. It may become a big no-go if the chatbot is used to support doctors in the diagnosis of serious illnesses. We need to design product experiences with non-perfect accuracies (and hallucinations) in mind.
 
+**Designing effective prompts and detect and avoid fallacies is surprisingly hard** (see [here](https://dl.acm.org/doi/10.1145/3544548.3581388) and [here](https://people.eecs.berkeley.edu/~bjoern/papers/zamfirescu-aicats-dis2023.pdf)). This also extends to testing, monitoring and providing controls for a save and effective chatbot experience. We have yet to coin the terms for different threats (e.g. "jailbreaking" vs "prompt injection", see Simon Willison's post [here](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)).
 
-All their core, these challenges have in common that they are human-machine-interface (HMI) problems. Put simply, AI and GenAI-applications are a new category of tools for human end-users. When used effectively, these tools provide great benefit, conversely, when mis-understood and mis-used, they threaten to cause great damage. 
+## Human-AI-Interaction
 
-### AI use case development
+All their core, these are human-computer-interaction (HCI) challenges. AI and GenAI-applications particularly are a new category of tools for our dear human end-users. It is thus important to gain a better understanding how we interact with them. **Let's call this field Human-AI-Interaction - HAII**. 
 
-
-### Prompt engineering 
- - paper: "johnny can't prompt"
-
-
-### Chatbot limitations for end-users
-- paper: ragged technology frontier, centaurs and cyborgs
-
-
-### AI-security: Usability is a powerful security handle, which we should use more!
+An important component for Human-AI-Interaction is AI Explainability. This does not only include the scientific understanding of AI models from research perspective (see a good overview [here](https://course.aisafetyfundamentals.com/alignment?session=5)), but from the perspective of the end-user: How can Humans understand AI systems better? There are interesting studies, for example [in the healthcare field](https://ieeexplore.ieee.org/document/9614151). Human-AI-Interaction is an important component of AI-security (i.e. protecting AI systems against malicious actors) and AI-safety (i.e. protecting people and the environment against often unintended outcomes from AI systems). They have to be thought from HCI perspective, just as we do for the general Cybersecurity domain (see e.g. [International Conference on HCI for Cybersecurity, Privacy and Trust](https://2023.hci.international/hci-cpt)).
