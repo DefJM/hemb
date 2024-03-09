@@ -1,13 +1,13 @@
 ---
 author: ["DefJM"]
-title: "AI user experience"
+title: "Human-AI-Interaction: We need to think more about AI usability"
 date: 2024-03-05
 draft: false 
 tags: ["UX-UI", "Human-AI-Interaction"]
 ---
 
 
-## We need to think more about user experience and usability for designing AI applications
+## AI applications are different from conventional software systems. And this matters.
 
 AI applications are different from conventional software systems. This has implications for user experience and usability. 
 
