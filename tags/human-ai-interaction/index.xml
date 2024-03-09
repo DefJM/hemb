@@ -13,7 +13,7 @@
       <link>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</guid>
-      <description>AI applications are different from conventional software systems. And this matters. AI applications are different from conventional software systems. This has implications for user experience and usability.
+      <description>AI systems are different from conventional software systems. And this matters. AI systems are different from conventional software systems. This has implications for user experience and usability.
 Developers need to understand the effects of probabilistic model outputs. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas.</description>
     </item>
   </channel>
