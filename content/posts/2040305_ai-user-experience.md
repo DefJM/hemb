@@ -9,9 +9,9 @@ tags: ["UX-UI", "Human-AI-Interaction", "AI-security"]
 
 ## AI systems are different from conventional software systems. And this matters.
 
-In my job to develop and implement machine learning services and dealing with related quality and security challenges, it has become clear to me that the ML-community needs to spend more time thinking through the user experience (UX) of AI systems. These systems are different from conventional software systems and this has implications for usability and design. 
+In my job to develop and implement AI services and dealing with related quality and security challenges, it has become clear to me that we need to spend more time thinking through the user experience (UX) of these systems. They are different from conventional software systems and this has implications for usability and design. 
 
-Developers need to **understand the effects of probabilistic model outputs**. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas. It may become a big no-go if the chatbot is used to support doctors in the diagnosis of serious illnesses. We need to design product experiences with non-perfect accuracies (and hallucinations) in mind.
+Developers need to **understand the effects of probabilistic model outputs**. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas. It may become a big no-go if the chatbot is used to support doctors in the diagnosis of serious illnesses. We need to design product experiences with a non-perfect precision scores (and in the case of chatbots even hallucinations) in mind.
 
 **Designing effective prompts and avoid fallacies is surprisingly hard** (see [here](https://dl.acm.org/doi/10.1145/3544548.3581388) and [here](https://people.eecs.berkeley.edu/~bjoern/papers/zamfirescu-aicats-dis2023.pdf)). This also extends to testing, monitoring and providing controls for a save and effective chatbot experience. We have yet to coin the terms for different threats (e.g. "jailbreaking" vs "prompt injection", see Simon Willison's post [here](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)).
 
