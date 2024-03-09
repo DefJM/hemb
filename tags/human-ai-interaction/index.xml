@@ -6,15 +6,15 @@
     <description>Recent content in Human-AI-Interaction on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://defjm.github.io/hemb/tags/human-ai-interaction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human-AI-Interaction: We need to think more about AI usability</title>
       <link>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</guid>
-      <description>AI systems are different from conventional software systems. And this matters. AI systems are different from conventional software systems. This has implications for user experience and usability.
-Developers need to understand the effects of probabilistic model outputs. For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas.</description>
+      <description>AI systems are different from conventional software systems. And this matters. In my job to develop and implement machine learning services and dealing with related quality and security challenges, it has become clear to me that the ML-community needs to spend more time thinking through the user experience (UX) of AI systems. These systems are different from conventional software systems and this has implications for usability and design.
+Developers need to understand the effects of probabilistic model outputs.</description>
     </item>
   </channel>
 </rss>

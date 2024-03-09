@@ -6,8 +6,16 @@
     <description>Recent content in AI-security on HEMB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://defjm.github.io/hemb/tags/ai-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-AI-Interaction: We need to think more about AI usability</title>
+      <link>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</guid>
+      <description>AI systems are different from conventional software systems. And this matters. In my job to develop and implement machine learning services and dealing with related quality and security challenges, it has become clear to me that the ML-community needs to spend more time thinking through the user experience (UX) of AI systems. These systems are different from conventional software systems and this has implications for usability and design.
+Developers need to understand the effects of probabilistic model outputs.</description>
+    </item>
     <item>
       <title>CTFs on AI? - Part 1: LLM Prompt Injection Attacks - Gandalf &amp; LLM CTF SaTML 2024</title>
       <link>https://defjm.github.io/hemb/posts/20240127_ctf-llm-part1/</link>
