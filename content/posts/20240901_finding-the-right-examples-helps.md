@@ -16,7 +16,7 @@ An explanation can fail big time when one opens the terminal and starts to run g
 
 ![Screenshot of a diff between two versions of Microsoft's Service Agreements](../images/diff-ms-service-agreements.png)
 
-So I [created a repo on Github](https://github.com/DefJM/contract-versions) to compare the two versions of Microsoft’s Service Agreements. I showed my relative the visual diff of those two versions and had him scroll through the coloured changes. I then showed him a [commit](https://github.com/home-assistant/home-assistant.io/commit/e5eff4be6e641f112e62df7cb1865659b613f52b) in the documentation of [Home Assistant](https://www.home-assistant.io) and [where it is](https://www.home-assistant.io/integrations/alexa.smart_home/#add-code-to-the-lambda-function) in the documentation. 
+So I [created a repo on Github](https://github.com/DefJM/contract-versions) to compare the two versions of Microsoft’s Service Agreements. I showed my relative the visual diff of those two versions and had him scroll through the coloured changes. He seemed excited so I showed him another [commit](https://github.com/home-assistant/home-assistant.io/commit/e5eff4be6e641f112e62df7cb1865659b613f52b) in the documentation of [Home Assistant](https://www.home-assistant.io) and [where it was](https://www.home-assistant.io/integrations/alexa.smart_home/#add-code-to-the-lambda-function) in the documentation. 
 
 ![Screenshot of the commit diff in Home Assistant](../images/commit-diff-home-assistant.png)
 
