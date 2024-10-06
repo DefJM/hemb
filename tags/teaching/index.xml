@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching on HEMB</title>
+    <link>https://defjm.github.io/hemb/tags/teaching/</link>
+    <description>Recent content in teaching on HEMB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://defjm.github.io/hemb/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding the right example helps</title>
+      <link>https://defjm.github.io/hemb/posts/20240901_finding-the-right-example-helps/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://defjm.github.io/hemb/posts/20240901_finding-the-right-example-helps/</guid>
+      <description>Sometimes finding the right example helps a lot. Even more so when it is visible. It makes things clear and people get it.
+More than once I find myself explaining the importance of version control to non-developers. The concept is important not only to just to code but to many more areas such as data sets and machine learning models. More than once, unfortunately, business folks struggle to understand its value.</description>
+    </item>
+  </channel>
+</rss>
