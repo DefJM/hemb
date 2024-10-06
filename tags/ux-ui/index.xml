@@ -10,9 +10,9 @@
     <atom:link href="https://defjm.github.io/hemb/tags/ux-ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human-AI-Interaction: We need to think more about AI usability</title>
-      <link>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</link>
+      <link>https://defjm.github.io/hemb/posts/20240305_ai-user-experience/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://defjm.github.io/hemb/posts/2040305_ai-user-experience/</guid>
+      <guid>https://defjm.github.io/hemb/posts/20240305_ai-user-experience/</guid>
       <description>AI systems are different from conventional software systems. And this matters. In my job to develop and implement machine learning and AI services for multiple industrial use cases. As we deal with related quality and security challenges, it has become clear to me that we need to spend more time thinking through the user experience (UX) of these systems. They are different from conventional software systems and this has implications for usability and design.</description>
     </item>
   </channel>
