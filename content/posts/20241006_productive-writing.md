@@ -6,12 +6,13 @@ draft: false
 tags: ["productivity", "writing", "coding"]
 ---
 
-Writing a paper or dissertation can be very hard. I have had several students going through what they experienced as a daunting challenge. When asking for advise, I used to tell them that I, too, struggled. And I shared bits and pieces how I managed. Last week I finally wrote up those pieces as a whole. 
+Writing a paper or dissertation can be very hard. I have had several students going through what they experienced as a daunting challenge. When asking for advise, I used to tell them that I, too, struggled. And I shared bits and pieces how I managed. Last week I finally wrote up those pieces as a whole.
+
+**TLDR: My main advise is to work in time-boxed writing blocks. In each block, you stick to only one writing mode. After each block, take a break. Rinse and repeat. If possible, do this as part of a writing group.**
 
 
 ## Writing modes
-When you write, there are very different tasks to accomplish. You start with doing your research, reading and reviewing other papers and books. You come up with a fitting structure for your dissertation. You define the sub-points of what you are going to say. You write paragraphs, your re-write them. These steps are not happening sequentially. The problem is, however, that these "modes" don't mix well. Our brains simply are not wired to switch easily between such different types of tasks. Next, let's look at those writing modes. 
-
+When you write, there are very different tasks to accomplish. You start with doing your research, reading and reviewing other papers and books. You come up with a fitting structure for your dissertation. You define the sub-points of what you are going to say. You write paragraphs, your re-write them. These steps are not happening sequentially. The problem is, however, that these "modes" don't mix well. Our brains simply are not wired to switch easily between such different types of tasks. Next, let's have a closer look at the different writing modes. 
 
 ### Pre-Writing
 - You research, gather information, collect important references.
@@ -56,6 +57,7 @@ When you write, there are very different tasks to accomplish. You start with doi
 - These groups tend to exist at universities. If not, go and find one, or start one.
 - The single thing everyone should have in common is that there is some serious piece of writing to be accomplished.
 - Participants can work on very different topics. That's even re-freshing and inspring for the breaks.
+
 
 ## References
 - I found my "method" has some ressemblance with [dnbt777](https://learnhowtolearn.org/author/learnhowtolearn/)'s article on [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/). Please check it out, it's worth reading! 
