@@ -9,7 +9,7 @@ tags: ["UX-UI", "Human-AI-Interaction", "AI-security"]
 
 ## AI systems are different from conventional software systems. And this matters.
 
-In my job to develop and implement AI services and dealing with related quality and security challenges, it has become clear to me that we need to spend more time thinking through the user experience (UX) of these systems. They are different from conventional software systems and this has implications for usability and design. 
+In my job to develop and implement machine learning and AI services for multiple industrial use cases. As we deal with related quality and security challenges, it has become clear to me that we need to spend more time thinking through the user experience (UX) of these systems. They are different from conventional software systems and this has implications for usability and design. 
 
 **It is hard for developers to understand the effects of probabilistic model outputs.** For example, what impact has a chatbot answer if it contains a hallucination? This is highly dependent on the given use case. It may be no problem if the chatbot is used to brainstorm design ideas. It may become a big no-go if the chatbot is used to support doctors in the diagnosis of serious illnesses. We need to design product experiences with a non-perfect precision scores (and in the case of chatbots even hallucinations) in mind.
 
