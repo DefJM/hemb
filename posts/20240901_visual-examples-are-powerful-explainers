@@ -11,7 +11,7 @@ cover:
 
 Sometimes simple, practical examples are very powerful to make people understand. 
 
-More than once I find myself explaining the importance of version control to non-programmer folks. The concept is important not only to just to code but to many more areas such as data sets and machine learning models. More than once, unfortunately, business folks struggle to understand its value. 
+More than once I find myself explaining the importance of version control to non-developers. The concept is important not only to just to code but to many more areas such as data sets and machine learning models. More than once, unfortunately, business folks struggle to understand its value. 
 
 Explaining it can fail big time when one opens the terminal and starts to run git commands. It seems last week I found a better way. I had a relative trying to understand the concept and I remembered that we had just talked about social media companies constantly updating lengthy data clauses. 
 
