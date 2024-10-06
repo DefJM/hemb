@@ -1,0 +1,18 @@
+---
+author: ["DefJM"]
+title: "Visual examples are powerful explainers"
+date: 2024-09-01
+draft: false 
+tags: ["coding", "teaching", "version-control"]
+cover:
+    image: images/visual-examples-are-powerful.png
+    hiddenInList: true
+---
+
+Sometimes simple, practical examples are very powerful to make people understand. 
+
+More than once I find myself explaining the importance of version control to non-programmer folks. The concept is important not only to just to code but to many more areas such as data sets and machine learning models. More than once, unfortunately, business folks struggle to understand its value. 
+
+Explaining it can fail big time when one opens the terminal and starts to run git commands. It seems last week I found a better way. I had a relative trying to understand the concept and I remembered that we had just talked about social media companies constantly updating lengthy data clauses. 
+
+So I [created a repo on Github](https://github.com/DefJM/contract-versions) to compare two versions of Microsoft’s Service Agreements. It sounds too simple, but showing non-programmers the diff of those two contract versions and scrolling through changes was a great show-case. Especially when my counterpart was desperately trying to find those changes manually!
