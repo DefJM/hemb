@@ -9,6 +9,8 @@ cover:
     hiddenInList: true
 ---
 
+**TLDR: I created the GitHub repo [contract-versions](https://github.com/DefJM/contract-versions) to show the importance of version control and diffs to non-developers.**
+
 Sometimes finding the right example helps a lot. Even more so when it is visible. It makes things clear and people get it.
 
 More than once I find myself explaining the importance of version control to non-developers. The concept is important not only to just to code but to many more areas such as data sets and machine learning models. More than once, unfortunately, business folks struggle to understand its value. 
