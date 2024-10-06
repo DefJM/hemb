@@ -58,5 +58,5 @@ When you write, there are very different tasks to accomplish. You start with doi
 - Participants can work on very different topics. That's even re-freshing and inspring for the breaks.
 
 ## References
-- I found my "method" has some ressemblance with [dnbt777](https://learnhowtolearn.org/author/learnhowtolearn/)'s article on [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/). Please check it out, too! 
+- I found my "method" has some ressemblance with [dnbt777](https://learnhowtolearn.org/author/learnhowtolearn/)'s article on [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/). Please check it out, it's worth reading! 
 - Found this medium post to have very similar ideas about writing modes and took some wording from it: https://medium.com/the-brave-writer/writing-as-an-iterative-process-81e1e8df0769
